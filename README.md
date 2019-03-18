@@ -1,2 +1,4 @@
 # Java-Files-Personal-Use-
-These Java files are for no specific assignments. They are just files used for practice and may help in the understanding or Java concepts.
+Not all of the Java files are used for specific assignments. 
+
+The original assignment prompts have been misplaced anyway.
